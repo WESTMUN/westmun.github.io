@@ -28,7 +28,7 @@ layout: default
 <header class="masthead">
     <div class="container">
         <div class="masthead-heading text-uppercase">WESTMUN 2022</div>
-        <div class="masthead-subheading">A Model United Nations Conference</div>
+        <div class="masthead-subheading">A Model United Nations Conference at Westonbirt School</div>
         <a class="btn btn-primary btn-xl text-uppercase" href="#services">Tell Me More</a>
     </div>
 </header>
