@@ -29,15 +29,16 @@ layout: default
     <div class="container">
         <div class="masthead-heading text-uppercase">WESTMUN 2022</div>
         <div class="masthead-subheading">A Model United Nations Conference at Westonbirt School</div>
-        <a class="btn btn-primary btn-xl text-uppercase" href="#services">Tell Me More</a>
+        <a class="btn btn-primary btn-xl text-uppercase" href="#dates">Tell Me More</a>
     </div>
 </header>
 <!-- Services-->
 <section class="page-section" id="dates">
     <div class="container">
         <div class="text-center">
-            <h2 class="section-heading text-uppercase">Services</h2>
-            <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
+            <h2 class="section-heading text-uppercase">Date / Time</h2>
+            <h3 class="section-subheading text-muted">Friday, 25th March 2022 - 5pm to 9pm</h3>
+            <p class="mb-3"><strong>Welcome to WESTMUN!</strong> - this Model United Nations conference will give your team the opportunity to develop your skills in leadership, debate, public speaking and negotiation, as well as considering how to solve the major issues facing the world, all within a structured and supportive environment. We look forward to weloming you to Westonbirt School on Friday, 25th March 2022.</p>
         </div>
         <div class="row text-center">
             <div class="col-md-4">
@@ -45,8 +46,8 @@ layout: default
                     <i class="fas fa-circle fa-stack-2x text-primary"></i>
                     <i class="fas fa-shopping-cart fa-stack-1x fa-inverse"></i>
                 </span>
-                <h4 class="my-3">E-Commerce</h4>
-                <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
+                <h4 class="my-3">UCoST</h4>
+                <p class="text-muted">UN Commission on Science and Technology for Development</p>
             </div>
             <div class="col-md-4">
                 <span class="fa-stack fa-4x">
@@ -67,12 +68,12 @@ layout: default
         </div>
     </div>
 </section>
-<!-- Portfolio Grid-->
+<!-- MUN Committees-->
 <section class="page-section bg-light" id="committees">
     <div class="container">
         <div class="text-center">
-            <h2 class="section-heading text-uppercase">Portfolio</h2>
-            <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
+            <h2 class="section-heading text-uppercase">Committees</h2>
+            <h3 class="section-subheading text-muted">The following committees will sit at WESTMUN 2022.</h3>
         </div>
         <div class="row">
             <div class="col-lg-4 col-sm-6 mb-4">
@@ -82,11 +83,11 @@ layout: default
                         <div class="portfolio-hover">
                             <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
                         </div>
-                        <img class="img-fluid" src="assets/img/portfolio/1.jpg" alt="..." />
+                        <img class="img-fluid" src="assets/img/un-logo.png" alt="..." />
                     </a>
                     <div class="portfolio-caption">
-                        <div class="portfolio-caption-heading">Threads</div>
-                        <div class="portfolio-caption-subheading text-muted">Illustration</div>
+                        <div class="portfolio-caption-heading">UCoST</div>
+                        <div class="portfolio-caption-subheading text-muted">UN Commission on Science and Technology for Development</div>
                     </div>
                 </div>
             </div>
@@ -97,11 +98,11 @@ layout: default
                         <div class="portfolio-hover">
                             <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
                         </div>
-                        <img class="img-fluid" src="assets/img/portfolio/2.jpg" alt="..." />
+                        <img class="img-fluid" src="assets/img/unep.png" alt="..." />
                     </a>
                     <div class="portfolio-caption">
-                        <div class="portfolio-caption-heading">Explore</div>
-                        <div class="portfolio-caption-subheading text-muted">Graphic Design</div>
+                        <div class="portfolio-caption-heading">UNEP</div>
+                        <div class="portfolio-caption-subheading text-muted">United Nations Environment Programme</div>
                     </div>
                 </div>
             </div>
@@ -112,11 +113,11 @@ layout: default
                         <div class="portfolio-hover">
                             <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
                         </div>
-                        <img class="img-fluid" src="assets/img/portfolio/3.jpg" alt="..." />
+                        <img class="img-fluid" src="assets/img/un-logo.png" alt="..." />
                     </a>
                     <div class="portfolio-caption">
-                        <div class="portfolio-caption-heading">Finish</div>
-                        <div class="portfolio-caption-subheading text-muted">Identity</div>
+                        <div class="portfolio-caption-heading">UNCTAD</div>
+                        <div class="portfolio-caption-subheading text-muted">United Nations Conference on Trade and Development</div>
                     </div>
                 </div>
             </div>
@@ -127,11 +128,11 @@ layout: default
                         <div class="portfolio-hover">
                             <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
                         </div>
-                        <img class="img-fluid" src="assets/img/portfolio/4.jpg" alt="..." />
+                        <img class="img-fluid" src="assets/img/un-logo.png" alt="..." />
                     </a>
                     <div class="portfolio-caption">
-                        <div class="portfolio-caption-heading">Lines</div>
-                        <div class="portfolio-caption-subheading text-muted">Branding</div>
+                        <div class="portfolio-caption-heading">SOCHUM</div>
+                        <div class="portfolio-caption-subheading text-muted">Social, Cultural, and Humanitarian Committee</div>
                     </div>
                 </div>
             </div>
@@ -142,11 +143,11 @@ layout: default
                         <div class="portfolio-hover">
                             <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
                         </div>
-                        <img class="img-fluid" src="assets/img/portfolio/5.jpg" alt="..." />
+                        <img class="img-fluid" src="assets/img/un-logo.png" alt="..." />
                     </a>
                     <div class="portfolio-caption">
-                        <div class="portfolio-caption-heading">Southwest</div>
-                        <div class="portfolio-caption-subheading text-muted">Website Design</div>
+                        <div class="portfolio-caption-heading">UNOOSA</div>
+                        <div class="portfolio-caption-subheading text-muted">United Nations Office for Outer Space Affairs</div>
                     </div>
                 </div>
             </div>
@@ -157,11 +158,11 @@ layout: default
                         <div class="portfolio-hover">
                             <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
                         </div>
-                        <img class="img-fluid" src="assets/img/portfolio/6.jpg" alt="..." />
+                        <img class="img-fluid" src="assets/img/unsc-logo.png" alt="..." />
                     </a>
                     <div class="portfolio-caption">
-                        <div class="portfolio-caption-heading">Window</div>
-                        <div class="portfolio-caption-subheading text-muted">Photography</div>
+                        <div class="portfolio-caption-heading">UNSC</div>
+                        <div class="portfolio-caption-subheading text-muted">United Nations Security Council</div>
                     </div>
                 </div>
             </div>
@@ -361,7 +362,7 @@ layout: default
 <footer class="footer py-4">
     <div class="container">
         <div class="row align-items-center">
-            <div class="col-lg-6 text-lg-start">Copyright &copy; Westonnbirt School 2022</div>
+            <div class="col-lg-6 text-lg-start">Copyright &copy; Westonbirt School 2022</div>
             <div class="col-lg-3 my-3 my-lg-0">
                 <a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-twitter"></i></a>
                 <a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-facebook-f"></i></a>
