@@ -40,6 +40,7 @@ layout: default
             <h3 class="section-subheading text-muted">Friday, 25th March 2022 - 5pm to 9pm</h3>
             <p class="mb-3"><strong>Welcome to WESTMUN!</strong> - this Model United Nations conference will give your team the opportunity to develop your skills in leadership, debate, public speaking and negotiation, as well as considering how to solve the major issues facing the world, all within a structured and supportive environment. We look forward to weloming you to Westonbirt School on Friday, 25th March 2022.</p>
         </div>
+<!--
         <div class="row text-center">
             <div class="col-md-4">
                 <span class="fa-stack fa-4x">
@@ -66,6 +67,7 @@ layout: default
                 <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
             </div>
         </div>
+-->
     </div>
 </section>
 <!-- MUN Committees-->
