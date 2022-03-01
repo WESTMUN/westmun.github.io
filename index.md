@@ -38,7 +38,7 @@ layout: default
         <div class="text-center">
             <h2 class="section-heading text-uppercase">Date / Time</h2>
             <h3 class="section-subheading text-muted">Friday, 25th March 2022 - 5pm to 9pm</h3>
-            <p class="mb-3"><strong>Welcome to WESTMUN!</strong> - this Model United Nations conference will give your team the opportunity to develop your skills in leadership, debate, public speaking and negotiation, as well as considering how to solve the major issues facing the world, all within a structured and supportive environment. We look forward to weloming you to Westonbirt School on Friday, 25th March 2022.</p>
+            <p class="mb-3"><strong>Welcome to WESTMUN!</strong> - this Model United Nations conference will give your team the opportunity to develop your skills in leadership, debate, public speaking and negotiation, as well as considering how to solve the major issues facing the world, all within a structured and supportive environment. We look forward to welcoming you to Westonbirt School on Friday, 25th March 2022.</p>
         </div>
 <!--
         <div class="row text-center">
@@ -347,9 +347,9 @@ layout: default
         <div class="row align-items-center">
             <div class="col-lg-6 text-lg-start">Copyright &copy; Westonbirt School 2022</div>
             <div class="col-lg-3 my-3 my-lg-0">
-                <a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-twitter"></i></a>
-                <a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-facebook-f"></i></a>
-                <a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-linkedin-in"></i></a>
+                <a class="btn btn-dark btn-social mx-2" href="https://twitter.com/WestonbirtSch"><i class="fab fa-twitter"></i></a>
+                <a class="btn btn-dark btn-social mx-2" href="https://www.facebook.com/WestonbirtSch"><i class="fab fa-facebook-f"></i></a>
+                <a class="btn btn-dark btn-social mx-2" href="https://www.linkedin.com/school/westonbirt-schools/"><i class="fab fa-linkedin-in"></i></a>
             </div>
             <div class="col-lg-3 text-lg-end">
                 <a class="link-dark text-decoration-none me-3" href="#!">Privacy Policy</a>
