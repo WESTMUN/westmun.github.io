@@ -369,9 +369,9 @@ layout: default
                     <div class="col-lg-8">
                         <div class="modal-body">
                             <!-- Project details-->
-                            <h2 class="text-uppercase">Project Name</h2>
-                            <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
-                            <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/1.jpg" alt="..." />
+                            <h2 class="text-uppercase">UCoST</h2>
+                            <p class="item-intro text-muted">UN Commission on Science and Technology for Development</p>
+                            <img class="img-fluid d-block mx-auto" src="assets/img/tech.png" alt="UCoST" />
                             <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
                             <ul class="list-inline">
                                 <li>
@@ -385,7 +385,7 @@ layout: default
                             </ul>
                             <button class="btn btn-primary btn-xl text-uppercase" data-bs-dismiss="modal" type="button">
                                 <i class="fas fa-times me-1"></i>
-                                Close Project
+                                Close Page
                             </button>
                         </div>
                     </div>
@@ -404,9 +404,9 @@ layout: default
                     <div class="col-lg-8">
                         <div class="modal-body">
                             <!-- Project details-->
-                            <h2 class="text-uppercase">Project Name</h2>
-                            <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
-                            <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/2.jpg" alt="..." />
+                            <h2 class="text-uppercase">UNEP</h2>
+                            <p class="item-intro text-muted">United Nations Environment Programme</p>
+                            <img class="img-fluid d-block mx-auto" src="assets/img/environment.jpeg" alt="..." />
                             <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
                             <ul class="list-inline">
                                 <li>
