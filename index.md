@@ -108,7 +108,7 @@ layout: default
                         <div class="portfolio-hover">
                             <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
                         </div>
-                        <img class="img-fluid" src="assets/img/unep.png" alt="..." />
+                        <img class="img-fluid" src="assets/img/un-logo.png" alt="..." />
                     </a>
                     <div class="portfolio-caption">
                         <div class="portfolio-caption-heading">UNEP</div>
@@ -171,7 +171,7 @@ layout: default
                         <div class="portfolio-hover">
                             <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
                         </div>
-                        <img class="img-fluid" src="assets/img/unsc-logo.png" alt="..." />
+                        <img class="img-fluid" src="assets/img/un-logo.png" alt="..." />
                     </a>
                     <div class="portfolio-caption">
                         <div class="portfolio-caption-heading">UNSC</div>
