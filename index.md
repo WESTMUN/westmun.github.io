@@ -182,13 +182,15 @@ layout: default
         </div>
     </div>
 </section>
-<!-- About-->
+<!-- Resources-->
 <section class="page-section" id="resources">
     <div class="container">
         <div class="text-center">
             <h2 class="section-heading text-uppercase">Resources</h2>
             <h3 class="section-subheading text-muted">The resources below will give you some details about the evening
                 and help you to prepare your delegations.</h3>
+            <p>Lots of useful information can be found on <a href="https://www.wisemee.com/mun/delegate/">the Wisemee.com site</a>, including a general introduction to how Model UN conferences work, how to give an introductory speech and how to write a resolution.</p>
+            <p>Each delegation is allocated a country. It is their job to represent the interests of their country in the debates and influence the final wording of resolutions. The sepcific topics that each committee will debate are listed above in the specific committee pages. They represent important global topics, which each committee will debate, before forming a resolution.</p>
         </div>
         <ul class="timeline">
             <li>
