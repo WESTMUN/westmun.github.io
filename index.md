@@ -43,7 +43,7 @@ layout: default
                 team the opportunity to develop your skills in leadership, debate, public speaking and negotiation, as
                 well as considering how to solve the major issues facing the world, all within a structured and
                 supportive environment. We look forward to welcoming you to Westonbirt School on Friday, 25th March
-                2022.</p>
+                2022. To enter one or more delegations, please email office@westonbirtschool.uk. Each delegation should be composed of between five and eight pupils.</p>
         </div>
         <!--
         <div class="row text-center">
