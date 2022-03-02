@@ -245,7 +245,7 @@ layout: default
                     </div>
                 </div>
             </li>
-            <li class="timeline-inverted">
+            <li class="timeline">
                 <div class="timeline-image"><img class="rounded-circle img-fluid" src="assets/img/committee.jpeg"
                         alt="Committee" /></div>
                 <div class="timeline-panel">
@@ -258,7 +258,7 @@ layout: default
                     </div>
                 </div>
             </li>
-            <li class="timeline">
+            <li class="timeline-inverted">
                 <div class="timeline-image"><img class="rounded-circle img-fluid" src="assets/img/unga.jpeg"
                         alt="General Assembly" /></div>
                 <div class="timeline-panel">
