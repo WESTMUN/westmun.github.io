@@ -40,7 +40,7 @@ layout: default
     <div class="container">
         <div class="text-center">
             <h2 class="section-heading text-uppercase">Date / Time</h2>
-            <h3 class="section-subheading text-muted">Friday, 25th March 2022 - 5pm to 9pm - incliding dinner</h3>
+            <h3 class="section-subheading text-muted">Friday, 25th March 2022 - 5pm to 9pm - including dinner</h3>
             <p class="mb-3"><strong>Welcome to WESTMUN!</strong> - this Model United Nations conference will give your
                 team the opportunity to develop your skills in leadership, debate, public speaking and negotiation, as
                 well as considering how to solve the major issues facing the world, all within a structured and
