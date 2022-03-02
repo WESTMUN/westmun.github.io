@@ -96,8 +96,7 @@ layout: default
                     </a>
                     <div class="portfolio-caption">
                         <div class="portfolio-caption-heading">UCoST</div>
-                        <div class="portfolio-caption-subheading text-muted">UN Commission on Science and Technology for
-                            Development</div>
+                        <div class="portfolio-caption-subheading text-muted">UN Commission on Science and Technology for Development</div>
                     </div>
                 </div>
             </div>
@@ -460,7 +459,7 @@ layout: default
                         <div class="modal-body">
                             <!-- Project details-->
                             <h2 class="text-uppercase">SOCHUM</h2>
-                            <p class="item-intro text-muted">Social, Cultural, and Humanitarian Committee.</p>
+                            <p class="item-intro text-muted">Social, Cultural, and Humanitarian Committee</p>
                             <img class="img-fluid d-block mx-auto" src="assets/img/aid.webp" alt="SOCHUM" />
                             <p>The General Assembly allocates to the Social, Cultural, and Humanitarian Committee, agenda items relating to a range of social, humanitarian affairs and human rights issues that affect people all over the world.</p>
                             <p>As in previous sessions, an important part of the work of the Committee will focus on the examination of human rights questions, including reports of the special procedures of the Human Rights Council which was established in 2006. In October 2020, the Committee will hear and interact with special rapporteurs, independent experts, and chairs of working groups as mandated by the Human Rights Council.</p>
