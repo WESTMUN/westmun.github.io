@@ -19,7 +19,9 @@ layout: default
                 <li class="nav-item"><a class="nav-link" href="#dates">Dates</a></li>
                 <li class="nav-item"><a class="nav-link" href="#committees">Committees</a></li>
                 <li class="nav-item"><a class="nav-link" href="#resources">Resources</a></li>
+                <!--
                 <li class="nav-item"><a class="nav-link" href="#team">Team</a></li>
+                -->
                 <li class="nav-item"><a class="nav-link" href="#contact">Contact</a></li>
             </ul>
         </div>
@@ -254,21 +256,24 @@ layout: default
                     </div>
                 </div>
             </li>
-            <li class="timeline-inverted">
-                <div class="timeline-image">
-                    <h4>
-                        Be Part
-                        <br />
-                        Of Our
-                        <br />
-                        Story!
-                    </h4>
+            <li class="timeline">
+                <div class="timeline-image"><img class="rounded-circle img-fluid" src="assets/img/about/3.jpg"
+                        alt="..." /></div>
+                <div class="timeline-panel">
+                    <div class="timeline-heading">
+                        <h4>8.30PM</h4>
+                        <h4 class="subheading">General Assembly</h4>
+                    </div>
+                    <div class="timeline-body">
+                        <p class="text-muted">The General Assembly reconvenes, to vote on the various resolutions.</p>
+                    </div>
                 </div>
             </li>
         </ul>
     </div>
 </section>
 <!-- Team-->
+<!--
 <section class="page-section bg-light" id="team">
     <div class="container">
         <div class="text-center">
@@ -315,6 +320,7 @@ layout: default
         </div>
     </div>
 </section>
+-->
 <!-- Contact-->
 <section class="page-section" id="contact">
     <div class="container">
