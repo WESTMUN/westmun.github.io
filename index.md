@@ -519,22 +519,16 @@ layout: default
                     <div class="col-lg-8">
                         <div class="modal-body">
                             <!-- Project details-->
-                            <h2 class="text-uppercase">Project Name</h2>
-                            <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
-                            <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/4.jpg" alt="..." />
-                            <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur
-                                adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt
-                                repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae,
-                                nostrum, reiciendis facere nemo!</p>
+                            <h2 class="text-uppercase">SOCHUM</h2>
+                            <p class="item-intro text-muted">Social, Cultural, and Humanitarian Committee.</p>
+                            <img class="img-fluid d-block mx-auto" src="assets/img/aid.webp" alt="SOCHUM" />
+                            <p>The General Assembly allocates to the Social, Cultural, and Humanitarian Committee, agenda items relating to a range of social, humanitarian affairs and human rights issues that affect people all over the world.</p>
+                            <p>As in previous sessions, an important part of the work of the Committee will focus on the examination of human rights questions, including reports of the special procedures of the Human Rights Council which was established in 2006. In October 2020, the Committee will hear and interact with special rapporteurs, independent experts, and chairs of working groups as mandated by the Human Rights Council.</p>
+                            <p>The Committee also discusses questions relating to the advancement of women, the protection of children, indigenous issues, the treatment of refugees, the promotion of fundamental freedoms through the elimination of racism and racial discrimination, and the right to self- determination.  The Committee also addresses important social development questions such as issues related to youth, family, ageing, persons with disabilities, crime prevention, criminal justice, and international drug control.</p>
+                            <p><strong>Debate topics:</strong></p>
                             <ul class="list-inline">
-                                <li>
-                                    <strong>Client:</strong>
-                                    Lines
-                                </li>
-                                <li>
-                                    <strong>Category:</strong>
-                                    Branding
-                                </li>
+                                <li>The Question of Refugees from War</li>
+                                <li>The Question of the International Drug Trade</li>
                             </ul>
                             <button class="btn btn-primary btn-xl text-uppercase" data-bs-dismiss="modal" type="button">
                                 <i class="fas fa-times me-1"></i>
@@ -558,26 +552,18 @@ layout: default
                     <div class="col-lg-8">
                         <div class="modal-body">
                             <!-- Project details-->
-                            <h2 class="text-uppercase">Project Name</h2>
-                            <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
-                            <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/5.jpg" alt="..." />
-                            <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur
-                                adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt
-                                repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae,
-                                nostrum, reiciendis facere nemo!</p>
+                            <h2 class="text-uppercase">UNOOSA</h2>
+                            <p class="item-intro text-muted">United Nations Office for Outer Space Affairs</p>
+                            <img class="img-fluid d-block mx-auto" src="assets/img/space.jpeg" alt="UNOOSA" />
+                            <p>The United Nations Office for Outer Space Affairs (UNOOSA) works to promote international cooperation in the peaceful use and exploration of space, and in the utilisation of space science and technology for sustainable economic and social development. The Office assists any United Nations Member States to establish legal and regulatory frameworks to govern space activities and strengthens the capacity of developing countries to use space science technology and applications for development by helping to integrate space capabilities into national development programmes.</p>
+                            <p><strong>Debate topics:</strong></p>
                             <ul class="list-inline">
-                                <li>
-                                    <strong>Client:</strong>
-                                    Southwest
-                                </li>
-                                <li>
-                                    <strong>Category:</strong>
-                                    Website Design
-                                </li>
+                                <li>The Question of settling on Mars</li>
+                                <li>The Question of war in space</li>
                             </ul>
                             <button class="btn btn-primary btn-xl text-uppercase" data-bs-dismiss="modal" type="button">
                                 <i class="fas fa-times me-1"></i>
-                                Close Project
+                                Close Page
                             </button>
                         </div>
                     </div>
@@ -597,26 +583,19 @@ layout: default
                     <div class="col-lg-8">
                         <div class="modal-body">
                             <!-- Project details-->
-                            <h2 class="text-uppercase">Project Name</h2>
-                            <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
-                            <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/6.jpg" alt="..." />
-                            <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur
-                                adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt
-                                repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae,
-                                nostrum, reiciendis facere nemo!</p>
+                            <h2 class="text-uppercase">UNSC</h2>
+                            <p class="item-intro text-muted">United Nations Security Council</p>
+                            <img class="img-fluid d-block mx-auto" src="assets/img/unsc.jpeg" alt="UNSC" />
+                            <p>The Security Council has primary responsibility for the maintenance of international peace and security. It has 15 Members, and each Member has one vote. Under the Charter of the United Nations, all Member States are obligated to comply with Council decisions.</p>
+                            <p>The Security Council takes the lead in determining the existence of a threat to the peace or act of aggression. It calls upon the parties to a dispute to settle it by peaceful means and recommends methods of adjustment or terms of settlement. In some cases, the Security Council can resort to imposing sanctions or even authorize the use of force to maintain or restore international peace and security.</p>
+                            <p><strong>Debate topics:</strong></p>
                             <ul class="list-inline">
-                                <li>
-                                    <strong>Client:</strong>
-                                    Window
-                                </li>
-                                <li>
-                                    <strong>Category:</strong>
-                                    Photography
-                                </li>
+                                <li>The Question of Ukraine</li>
+                                <li>The Question of Syria</li>
                             </ul>
                             <button class="btn btn-primary btn-xl text-uppercase" data-bs-dismiss="modal" type="button">
                                 <i class="fas fa-times me-1"></i>
-                                Close Project
+                                Close Page
                             </button>
                         </div>
                     </div>
