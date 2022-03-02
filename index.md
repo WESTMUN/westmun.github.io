@@ -194,8 +194,8 @@ layout: default
         </div>
         <ul class="timeline">
             <li>
-                <div class="timeline-image"><img class="rounded-circle img-fluid" src="assets/img/about/1.jpg"
-                        alt="..." /></div>
+                <div class="timeline-image"><img class="rounded-circle img-fluid" src="assets/img/greathall.jpeg"
+                        alt="Great Hall" /></div>
                 <div class="timeline-panel">
                     <div class="timeline-heading">
                         <h4>5.00PM</h4>
@@ -207,8 +207,8 @@ layout: default
                 </div>
             </li>
             <li class="timeline-inverted">
-                <div class="timeline-image"><img class="rounded-circle img-fluid" src="assets/img/about/2.jpg"
-                        alt="..." /></div>
+                <div class="timeline-image"><img class="rounded-circle img-fluid" src="assets/img/unga.jpeg"
+                        alt="General Assembly" /></div>
                 <div class="timeline-panel">
                     <div class="timeline-heading">
                         <h4>5.30PM</h4>
@@ -220,8 +220,8 @@ layout: default
                 </div>
             </li>
             <li>
-                <div class="timeline-image"><img class="rounded-circle img-fluid" src="assets/img/about/3.jpg"
-                        alt="..." /></div>
+                <div class="timeline-image"><img class="rounded-circle img-fluid" src="assets/img/committee.jpeg"
+                        alt="Committee" /></div>
                 <div class="timeline-panel">
                     <div class="timeline-heading">
                         <h4>6.00PM</h4>
@@ -233,8 +233,8 @@ layout: default
                 </div>
             </li>
             <li class="timeline-inverted">
-                <div class="timeline-image"><img class="rounded-circle img-fluid" src="assets/img/about/4.jpg"
-                        alt="..." /></div>
+                <div class="timeline-image"><img class="rounded-circle img-fluid" src="assets/img/dinner.jpeg"
+                        alt="Dinner" /></div>
                 <div class="timeline-panel">
                     <div class="timeline-heading">
                         <h4>7.00PM</h4>
@@ -246,8 +246,8 @@ layout: default
                 </div>
             </li>
             <li class="timeline-inverted">
-                <div class="timeline-image"><img class="rounded-circle img-fluid" src="assets/img/about/4.jpg"
-                        alt="..." /></div>
+                <div class="timeline-image"><img class="rounded-circle img-fluid" src="assets/img/committee.jpeg"
+                        alt="Committee" /></div>
                 <div class="timeline-panel">
                     <div class="timeline-heading">
                         <h4>8.00PM</h4>
@@ -259,8 +259,8 @@ layout: default
                 </div>
             </li>
             <li class="timeline">
-                <div class="timeline-image"><img class="rounded-circle img-fluid" src="assets/img/about/3.jpg"
-                        alt="..." /></div>
+                <div class="timeline-image"><img class="rounded-circle img-fluid" src="assets/img/unga.jpeg"
+                        alt="General Assembly" /></div>
                 <div class="timeline-panel">
                     <div class="timeline-heading">
                         <h4>8.30PM</h4>
