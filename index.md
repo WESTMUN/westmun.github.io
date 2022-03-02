@@ -457,20 +457,13 @@ layout: default
                             <!-- Project details-->
                             <h2 class="text-uppercase">UNEP</h2>
                             <p class="item-intro text-muted">United Nations Environment Programme</p>
-                            <img class="img-fluid d-block mx-auto" src="assets/img/environment.jpeg" alt="..." />
-                            <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur
-                                adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt
-                                repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae,
-                                nostrum, reiciendis facere nemo!</p>
+                            <img class="img-fluid d-block mx-auto" src="assets/img/environment.jpeg" alt="Environment" />
+                            <p>Since its inception in 1972, the United Nations Environment Programme (UNEP) has been the global authority that sets the environmental agenda, promotes the coherent implementation of the environmental dimension of sustainable development within the United Nations system and serves as an authoritative advocate for the global environment.</p>
+                            <p>UNEP’s mission is to provide leadership and encourage partnership in caring for the environment by inspiring, informing, and enabling nations and peoples to improve their quality of life without compromising that of future generations.</p>
+                            <p><strong>Debate topics:</strong></p>
                             <ul class="list-inline">
-                                <li>
-                                    <strong>Client:</strong>
-                                    Explore
-                                </li>
-                                <li>
-                                    <strong>Category:</strong>
-                                    Graphic Design
-                                </li>
+                                <li>The Question of the Sustainable Development Goals</li>
+                                <li>The Question of Geoengineering</li>
                             </ul>
                             <button class="btn btn-primary btn-xl text-uppercase" data-bs-dismiss="modal" type="button">
                                 <i class="fas fa-times me-1"></i>
@@ -494,26 +487,19 @@ layout: default
                     <div class="col-lg-8">
                         <div class="modal-body">
                             <!-- Project details-->
-                            <h2 class="text-uppercase">Project Name</h2>
-                            <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
-                            <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/3.jpg" alt="..." />
-                            <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur
-                                adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt
-                                repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae,
-                                nostrum, reiciendis facere nemo!</p>
+                            <h2 class="text-uppercase">UNCTAD</h2>
+                            <p class="item-intro text-muted">United Nations Conference on Trade and Development</p>
+                            <img class="img-fluid d-block mx-auto" src="assets/img/trade.jpeg" alt="Trade and Development" />
+                            <p>Globalization, including a phenomenal expansion of trade, has helped lift millions out of poverty. But not nearly enough people have benefited. And tremendous challenges remain.</p>
+                            <p>We support developing countries to access the benefits of a globalized economy more fairly and effectively. And we help equip them to deal with the potential drawbacks of greater economic integration. To do this, we provide analysis, facilitate consensus-building, and offer technical assistance. This helps them to use trade, investment, finance, and technology as vehicles for inclusive and sustainable development.</p>
+                            <p><strong>Debate topics:</strong></p>
                             <ul class="list-inline">
-                                <li>
-                                    <strong>Client:</strong>
-                                    Finish
-                                </li>
-                                <li>
-                                    <strong>Category:</strong>
-                                    Identity
-                                </li>
+                                <li>The Question of Finance for Development</li>
+                                <li>The Question of Cryptocurrency</li>
                             </ul>
                             <button class="btn btn-primary btn-xl text-uppercase" data-bs-dismiss="modal" type="button">
                                 <i class="fas fa-times me-1"></i>
-                                Close Project
+                                Close Page
                             </button>
                         </div>
                     </div>
@@ -552,7 +538,7 @@ layout: default
                             </ul>
                             <button class="btn btn-primary btn-xl text-uppercase" data-bs-dismiss="modal" type="button">
                                 <i class="fas fa-times me-1"></i>
-                                Close Project
+                                Close Page
                             </button>
                         </div>
                     </div>
