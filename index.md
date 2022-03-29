@@ -8,7 +8,7 @@ layout: default
 <!-- Navigation-->
 <nav class="navbar navbar-expand-lg navbar-dark fixed-top" id="mainNav">
     <div class="container">
-        <a class="navbar-brand" href="#page-top">WESTMUN 2022</a>
+        <a class="navbar-brand" href="#page-top">WESTMUN 2023</a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive"
             aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
             Menu
@@ -30,7 +30,7 @@ layout: default
 <!-- Masthead-->
 <header class="masthead">
     <div class="container">
-        <div class="masthead-heading text-uppercase">WESTMUN 2022</div>
+        <div class="masthead-heading text-uppercase">WESTMUN 2023</div>
         <div class="masthead-subheading">A Model United Nations Conference at Westonbirt School</div>
         <a class="btn btn-primary btn-xl text-uppercase" href="#dates">Tell Me More</a>
     </div>
@@ -40,7 +40,7 @@ layout: default
     <div class="container">
         <div class="text-center">
             <h2 class="section-heading text-uppercase">Date / Time</h2>
-            <h3 class="section-subheading text-muted">Friday, 25th March 2022 - 5pm to 9pm - including dinner</h3>
+            <h3 class="section-subheading text-muted">Friday, 24th March 2023 - 5pm to 9pm - including dinner</h3>
             <p class="mb-3"><strong>Welcome to WESTMUN!</strong> - this Model United Nations conference will give your
                 team the opportunity to develop your skills in leadership, debate, public speaking and negotiation, as
                 well as considering how to solve the major issues facing the world, all within a structured and
