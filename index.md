@@ -44,8 +44,8 @@ layout: default
             <p class="mb-3"><strong>Welcome to WESTMUN!</strong> - this Model United Nations conference will give your
                 team the opportunity to develop your skills in leadership, debate, public speaking and negotiation, as
                 well as considering how to solve the major issues facing the world, all within a structured and
-                supportive environment. We look forward to welcoming you to Westonbirt School on Friday, 25th March
-                2022. To enter one or more delegations, please email office@westonbirtschool.uk. Each delegation should be composed of between five and eight pupils.</p>
+                supportive environment. We look forward to welcoming you to Westonbirt School on Friday, 24th March
+                2023. To enter one or more delegations, please email office@westonbirtschool.uk. Each delegation should be composed of between five and eight pupils.</p>
         </div>
         <!--
         <div class="row text-center">
