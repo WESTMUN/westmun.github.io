@@ -40,11 +40,11 @@ layout: default
     <div class="container">
         <div class="text-center">
             <h2 class="section-heading text-uppercase">Date / Time</h2>
-            <h3 class="section-subheading text-muted">Friday, 24th March 2023 - 5pm to 9pm - including dinner</h3>
+            <h3 class="section-subheading text-muted">Friday, 3rd March 2023 - 5pm to 9pm - including dinner</h3>
             <p class="mb-3"><strong>Welcome to WESTMUN!</strong> - this Model United Nations conference will give your
                 team the opportunity to develop your skills in leadership, debate, public speaking and negotiation, as
                 well as considering how to solve the major issues facing the world, all within a structured and
-                supportive environment. We look forward to welcoming you to Westonbirt School on Friday, 24th March
+                supportive environment. We look forward to welcoming you to Westonbirt School on Friday, 3rd March
                 2023. To enter one or more delegations, please email office@westonbirtschool.uk. Each delegation should be composed of between five and eight pupils.</p>
         </div>
         <!--
