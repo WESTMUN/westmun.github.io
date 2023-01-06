@@ -219,7 +219,7 @@ layout: default
                 </div>
             </li>
             <li>
-                <div class="timeline-image"><img class="rounded-circle img-fluid" src="assets/img/committee.jpeg"
+                <div class="timeline-image"><img class="rounded-circle img-fluid" src="assets/img/greathall.jpeg"
                         alt="Committee" /></div>
                 <div class="timeline-panel">
                     <div class="timeline-heading">
