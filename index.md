@@ -206,7 +206,7 @@ layout: default
                 </div>
             </li>
             <li class="timeline-inverted">
-                <div class="timeline-image"><img class="rounded-circle img-fluid" src="assets/img/unga.jpeg"
+                <div class="timeline-image"><img class="rounded-circle img-fluid" src="assets/img/greathall.jpeg"
                         alt="General Assembly" /></div>
                 <div class="timeline-panel">
                     <div class="timeline-heading">
@@ -245,7 +245,7 @@ layout: default
                 </div>
             </li>
             <li class="timeline">
-                <div class="timeline-image"><img class="rounded-circle img-fluid" src="assets/img/committee.jpeg"
+                <div class="timeline-image"><img class="rounded-circle img-fluid" src="assets/img/greathall.jpeg"
                         alt="Committee" /></div>
                 <div class="timeline-panel">
                     <div class="timeline-heading">
@@ -258,7 +258,7 @@ layout: default
                 </div>
             </li>
             <li class="timeline-inverted">
-                <div class="timeline-image"><img class="rounded-circle img-fluid" src="assets/img/unga.jpeg"
+                <div class="timeline-image"><img class="rounded-circle img-fluid" src="assets/img/greathall.jpeg"
                         alt="General Assembly" /></div>
                 <div class="timeline-panel">
                     <div class="timeline-heading">
