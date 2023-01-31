@@ -530,7 +530,7 @@ layout: default
                             <p><strong>Debate topics:</strong></p>
                             <ul class="list-inline">
                                 <li>The Question of Ukraine</li>
-                                <li>The Question of Syria</li>
+                                <li>The Question of Taiwan</li>
                             </ul>
                             <button class="btn btn-primary btn-xl text-uppercase" data-bs-dismiss="modal" type="button">
                                 <i class="fas fa-times me-1"></i>
